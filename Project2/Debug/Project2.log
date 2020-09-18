@@ -1,0 +1,156 @@
+﻿  msarray_test.cpp
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(90,25): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(107): message : see reference to class template instantiation 'TypeCheck<T>' being compiled
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(102,25): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(192,26): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(314,18): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(315,7): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(347,19): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(348,7): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(360,19): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(361,7): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(380,9): error C2065: 'MSArray': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(380,20): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(380,23): error C2039: 'value_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(381,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(381,34): error C2065: 'x1': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(384,9): error C2065: 'MSArray': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(384,23): error C2062: type 'double' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(384,26): error C2039: 'value_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(385,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(385,37): error C2065: 'x2': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(393,9): error C2065: 'MSArray': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(393,20): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(393,23): error C2039: 'size_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(394,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(394,37): error C2065: 'x1': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(397,9): error C2065: 'MSArray': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(397,23): error C2062: type 'double' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(397,26): error C2039: 'size_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(398,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(398,37): error C2065: 'x2': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(407,5): error C2065: 'MSArray': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(407,16): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(408,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(408,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(409,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(409,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(409,11): error C2086: 'const int MSArray': redefinition
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(408): message : see declaration of 'MSArray'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(410,19): error C2062: type 'double' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(411,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(411,18): error C2143: syntax error: missing ';' before '<'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(411,11): error C2086: 'const int MSArray': redefinition
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(408): message : see declaration of 'MSArray'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(415,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(415,37): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(416,9): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(416,9): error C2062: type 'unknown-type' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(416,9): error C2039: 'check': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(421,20): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(422,20): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(423,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(423,37): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(424,9): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(424,9): error C2062: type 'unknown-type' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(424,9): error C2039: 'check': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(430,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(430,40): error C2065: 'cmi2': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(430,48): error C2440: 'initializing': cannot convert from 'initializer list' to 'const int &'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(430,39): message : A reference type cannot be value-initialized
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(431,9): error C2065: 'cmi2': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(431,9): error C2660: 'doctest::detail::decomp_assert': function does not take 4 arguments
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\doctest.h(4226,8): message : see declaration of 'doctest::detail::decomp_assert'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(432,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(432,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(432,39): error C2143: syntax error: missing ';' before '<'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(432,46): error C2039: 'value_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(433,9): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(433,9): error C2062: type 'unknown-type' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(433,9): error C2039: 'value_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(433,9): error C2039: 'check': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(435,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(435,43): error C2065: 'cmd5': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(435,51): error C2440: 'initializing': cannot convert from 'initializer list' to 'const double &'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(435,42): message : A reference type cannot be value-initialized
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(436,9): error C2065: 'cmd5': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(436,9): error C2660: 'doctest::detail::decomp_assert': function does not take 4 arguments
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\doctest.h(4226,8): message : see declaration of 'doctest::detail::decomp_assert'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(437,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(437,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(437,39): error C2143: syntax error: missing ';' before '<'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(437,32): error C2086: 'const int MSArray': redefinition
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(432): message : see declaration of 'MSArray'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(437,49): error C2039: 'value_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(438,9): error C2062: type 'double' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(438,9): error C2062: type 'unknown-type' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(438,9): error C2039: 'value_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(438,9): error C2039: 'check': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(444,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(444,34): error C2065: 'mi1': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(444,41): error C2440: 'initializing': cannot convert from 'initializer list' to 'int &'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(444,33): message : A reference type cannot be value-initialized
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(445,9): error C2065: 'mi1': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(445,9): error C2660: 'doctest::detail::decomp_assert': function does not take 4 arguments
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\doctest.h(4226,8): message : see declaration of 'doctest::detail::decomp_assert'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(446,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(446,37): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(446,40): error C2039: 'value_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(447,9): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(447,9): error C2062: type 'unknown-type' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(447,9): error C2039: 'value_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(447,9): error C2039: 'check': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(449,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(449,37): error C2065: 'md4': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(449,44): error C2440: 'initializing': cannot convert from 'initializer list' to 'double &'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(449,36): message : A reference type cannot be value-initialized
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(450,9): error C2065: 'md4': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(450,9): error C2660: 'doctest::detail::decomp_assert': function does not take 4 arguments
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\doctest.h(4226,8): message : see declaration of 'doctest::detail::decomp_assert'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(451,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(451,40): error C2062: type 'double' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(451,43): error C2039: 'value_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(452,9): error C2062: type 'double' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(452,9): error C2062: type 'unknown-type' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(452,9): error C2039: 'value_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(452,9): error C2039: 'check': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(457,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(457,38): error C2065: 'cmi2': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(457,50): error C2440: 'initializing': cannot convert from 'initializer list' to 'size_t &&'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(457,37): message : A reference type cannot be value-initialized
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(458,9): error C2065: 'cmi2': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(458,9): error C2660: 'doctest::detail::decomp_assert': function does not take 4 arguments
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\doctest.h(4226,8): message : see declaration of 'doctest::detail::decomp_assert'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(459,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(459,37): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(459,40): error C2039: 'size_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(460,9): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(460,9): error C2062: type 'unknown-type' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(460,9): error C2039: 'size_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(460,9): error C2039: 'check': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(462,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(462,38): error C2065: 'cmd5': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(462,50): error C2440: 'initializing': cannot convert from 'initializer list' to 'size_t &&'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(462,37): message : A reference type cannot be value-initialized
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(463,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(463,37): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(463,40): error C2039: 'size_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(464,9): error C2065: 'cmd5': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(464,9): error C2660: 'doctest::detail::decomp_assert': function does not take 4 arguments
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\doctest.h(4226,8): message : see declaration of 'doctest::detail::decomp_assert'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(465,9): error C2062: type 'int' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(465,9): error C2062: type 'unknown-type' unexpected
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(465,9): error C2039: 'size_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(465,9): error C2039: 'check': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(470,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(470,42): error C2065: 'cmi2': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(470,55): error C2440: 'initializing': cannot convert from 'initializer list' to 'const int *&&'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(470,41): message : A reference type cannot be value-initialized
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(471,9): error C2065: 'cmi2': undeclared identifier
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(471,9): error C2660: 'doctest::detail::decomp_assert': function does not take 4 arguments
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\doctest.h(4226,8): message : see declaration of 'doctest::detail::decomp_assert'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(472,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(472,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(472,39): error C2143: syntax error: missing ';' before '<'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(472,46): error C2039: 'value_type': is not a member of '`global namespace''
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project2\msarray_test.cpp(472,56): fatal error C1003: error count exceeds 100; stopping compilation

@@ -1,0 +1,67 @@
+﻿  msarray_test.cpp
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(90,25): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(107): message : see reference to class template instantiation 'TypeCheck<T>' being compiled
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(102,25): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(192,26): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(314,18): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(315,7): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(347,19): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(348,7): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(360,19): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(361,7): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(381,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(385,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(394,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(398,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(415,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(423,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(430,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(432,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(435,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(437,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(444,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(446,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(449,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(451,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(457,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(459,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(462,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(463,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(470,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(472,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(475,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(477,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(483,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(485,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(488,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(490,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(496,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(498,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(501,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(503,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(509,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(511,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(514,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(516,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(522,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(528,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(534,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(540,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(546,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(552,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(569,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(570,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(571,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(572,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(573,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(574,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(588,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(598,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(608,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(618,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(628,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(638,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(1472,49): error C2440: 'initializing': cannot convert from 'MSArray<int>::size_type' to 'MSArray<int>::size_type &&'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(1472,38): message : You cannot bind an lvalue to an rvalue reference
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(1473,49): error C2440: 'initializing': cannot convert from 'MSArray<int>::size_type' to 'MSArray<int>::size_type &&'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(1473,38): message : You cannot bind an lvalue to an rvalue reference
