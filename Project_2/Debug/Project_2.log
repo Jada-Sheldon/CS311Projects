@@ -65,48 +65,6 @@ C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray.h(28,2)
 C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray.h(26): message : while compiling class template member function 'MSArray<int>::MSArray(MSArray<int>::size_type,int)'
 C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(730): message : see reference to function template instantiation 'MSArray<int>::MSArray(MSArray<int>::size_type,int)' being compiled
 C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(380): message : see reference to class template instantiation 'MSArray<int>' being compiled
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,14): error C2672: 'operator __surrogate_func': no matching overloaded function found
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1543): message : see reference to function template instantiation 'bool std::_Debug_lt_pred<_Pr&,const OnlyEq&,const OnlyEq&,0>(std::less<void>&,_Ty1,_Ty2) noexcept(<expr>)' being compiled
-          with
-          [
-              _Pr=std::less<void>,
-              _Ty1=const OnlyEq &,
-              _Ty2=const OnlyEq &
-          ]
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(4997): message : see reference to function template instantiation 'bool std::_Lex_compare_unchecked<_InIt1,_InIt1,_Fn>(_InIt1,_InIt1,_InIt2,_InIt2,_Pr,std::_Lex_compare_optimize<void>)' being compiled
-          with
-          [
-              _InIt1=const OnlyEq *,
-              _Fn=std::less<void>,
-              _InIt2=const OnlyEq *,
-              _Pr=std::less<void>
-          ]
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(5003): message : see reference to function template instantiation 'bool std::lexicographical_compare<_InIt1,_InIt2,std::less<void>>(_InIt1,_InIt1,_InIt2,_InIt2,_Pr)' being compiled
-          with
-          [
-              _InIt1=const OnlyEq *,
-              _InIt2=const OnlyEq *,
-              _Pr=std::less<void>
-          ]
-C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray.h(123): message : see reference to function template instantiation 'bool std::lexicographical_compare<const OnlyEq*,const OnlyEq*>(_InIt1,_InIt1,_InIt2,_InIt2)' being compiled
-          with
-          [
-              _InIt1=const OnlyEq *,
-              _InIt2=const OnlyEq *
-          ]
-C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray.h(144): message : see reference to function template instantiation 'bool operator <<OnlyEq>(const MSArray<OnlyEq> &,const MSArray<OnlyEq> &)' being compiled
-C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(588): message : see reference to function template instantiation 'bool operator ==<OnlyEq>(const MSArray<OnlyEq> &,const MSArray<OnlyEq> &)' being compiled
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,1): error C2893: Failed to specialize function template 'unknown-type std::less<void>::operator ()(_Ty1 &&,_Ty2 &&) noexcept(<expr>) const'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstddef(237): message : see declaration of 'std::less<void>::operator ()'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,1): message : With the following template arguments:
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,1): message : '_Ty1=const OnlyEq &'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,1): message : '_Ty2=const OnlyEq &'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,5): error C2056: illegal expression
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,48): error C2672: 'operator __surrogate_func': no matching overloaded function found
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1544,39): error C2056: illegal expression
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(4962,20): error C2672: 'operator __surrogate_func': no matching overloaded function found
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(4962,1): error C2893: Failed to specialize function template 'unknown-type std::less<void>::operator ()(_Ty1 &&,_Ty2 &&) noexcept(<expr>) const'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstddef(237): message : see declaration of 'std::less<void>::operator ()'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(4962,1): message : With the following template arguments:
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(4962,1): message : '_Ty1=const OnlyEq &'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(4962,1): message : '_Ty2=const OnlyEq &'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray.h(121,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(522): message : see reference to function template instantiation 'bool operator ==<int>(const MSArray<int> &,const MSArray<int> &)' being compiled
+  Project_2.vcxproj -> C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\Debug\Project_2.exe

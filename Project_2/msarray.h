@@ -114,7 +114,26 @@ private:
 
 
 
+//TODO: Operator ==
+template<typename T>
+bool operator==(const MSArray<T>& lhs, const MSArray<T>& rhs) {
+	if (lhs.size() == rhs.size()) {
+		for (int i = 0; i < lhs.size(); ++i) {
+			if (lhs[i] != rhs[i]) {
+				return false;
+			}
+		}
+		return true;
+	}
+	return false;
+}
 
+
+// TODO: Operator !=
+template<typename T>
+bool operator!=(const MSArray<T>& lhs, const MSArray<T>& rhs) {
+	return !(lhs == rhs);
+}
 
 
 template<typename T>
@@ -138,17 +157,5 @@ bool operator<= (const MSArray<T>& lhs, const MSArray<T>& rhs) {
 	return !(lhs > rhs);
 }
 
-//TODO: Operator ==
-template<typename T>
-bool operator==(const MSArray<T>& lhs, const MSArray<T>& rhs) {
-	return (!(lhs < rhs) && !(rhs < lhs));
-}
-
-
-// TODO: Operator !=
-template<typename T>
-bool operator!=(const MSArray<T>& lhs, const MSArray<T>& rhs) {
-	return !(!(lhs < rhs) && !(rhs < lhs));
-}
 
 #endif
