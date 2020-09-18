@@ -31,7 +31,7 @@ public:
 		}
 	}
 	//copy ctor
-	MSArray(const MSArray& original) noexcept : _arrayptr(new value_type[original.size()]), _size(original.size())
+	MSArray(const MSArray& original) : _arrayptr(new value_type[original.size()]), _size(original.size())
 	{
 		std::copy(original.begin(), original.end(), _arrayptr);
 	}
