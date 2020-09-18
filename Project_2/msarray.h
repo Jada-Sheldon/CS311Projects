@@ -1,6 +1,3 @@
-#pragma once
-#ifndef MSARRAY_H
-#define MSARRAY_H
 
 #ifndef MSARRAY_H
 #define MSARRAY_H
@@ -161,6 +158,4 @@ bool operator<= (const MSArray<T>& lhs, const MSArray<T>& rhs) {
 	return !(lhs > rhs);
 }
 
-
 #endif
-

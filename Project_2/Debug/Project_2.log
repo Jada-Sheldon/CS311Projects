@@ -61,7 +61,10 @@ C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cp
 C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(618,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
 C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(628,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
 C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(638,11): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
-C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(1472,49): error C2440: 'initializing': cannot convert from 'MSArray<int>::size_type' to 'MSArray<int>::size_type &&'
-C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(1472,38): message : You cannot bind an lvalue to an rvalue reference
-C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(1473,49): error C2440: 'initializing': cannot convert from 'MSArray<int>::size_type' to 'MSArray<int>::size_type &&'
-C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(1473,38): message : You cannot bind an lvalue to an rvalue reference
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray.h(29,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray.h(27): message : while compiling class template member function 'MSArray<int>::MSArray(MSArray<int>::size_type,int)'
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(730): message : see reference to function template instantiation 'MSArray<int>::MSArray(MSArray<int>::size_type,int)' being compiled
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(380): message : see reference to class template instantiation 'MSArray<int>' being compiled
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray.h(122,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\msarray_test.cpp(522): message : see reference to function template instantiation 'bool operator ==<int>(const MSArray<int> &,const MSArray<int> &)' being compiled
+  Project_2.vcxproj -> C:\Users\sheld\source\repos\Jada-Sheldon\CS311Projects\Project_2\Debug\Project_2.exe
